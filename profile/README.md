@@ -1,1 +1,7 @@
-<iframe src="https://discord.com/widget?id=1051458076265418826&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+Welcome to Lengliz Codes, your go-to destination for professional coding resources and expertise.
+
+# Youtube: 
+https://www.youtube.com/@LenglizCodes
+
+# Discord: 
+https://lenglizcodes.com/discord 
